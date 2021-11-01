@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Vertretungsplan.iml" filepath="$PROJECT_DIR$/Vertretungsplan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pagersliding/pagersliding.iml" filepath="$PROJECT_DIR$/pagersliding/pagersliding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/supportpreferencefragment/supportpreferencefragment.iml" filepath="$PROJECT_DIR$/supportpreferencefragment/supportpreferencefragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vertretungsplan/vertretungsplan.iml" filepath="$PROJECT_DIR$/vertretungsplan/vertretungsplan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pagersliding/Vertretungsplan.pagersliding.iml" filepath="$PROJECT_DIR$/.idea/modules/pagersliding/Vertretungsplan.pagersliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/supportpreferencefragment/Vertretungsplan.supportpreferencefragment.iml" filepath="$PROJECT_DIR$/.idea/modules/supportpreferencefragment/Vertretungsplan.supportpreferencefragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertretungsplan/Vertretungsplan.vertretungsplan.iml" filepath="$PROJECT_DIR$/.idea/modules/vertretungsplan/Vertretungsplan.vertretungsplan.iml" />
     </modules>
   </component>
 </project>
-
